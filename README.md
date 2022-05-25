@@ -10,7 +10,4 @@ Hello world! 👋
 
 👉‍ Learn more and find me online at [my personal website](https://mxe.no).
 
----
-
 ![matsest's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsest&count_private=true&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matsest&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
