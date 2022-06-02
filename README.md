@@ -11,3 +11,4 @@ Hello world! 👋
 👉‍ Learn more and find me online at [my personal website](https://mxe.no).
 
 ![matsest's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsest&count_private=true&show_icons=true)
+![matsest's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matsest&hide=javascript,html,css&layout=compact&langs_count=8)
