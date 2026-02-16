@@ -11,8 +11,8 @@ Hello world! 👋
 👉‍ Learn more and find me online at [my personal website](https://mxe.no).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" alt="matsest's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=matsest&count_private=true&show_icons=true" />
+  <img height=200 align="center" alt="matsest's GitHub stats" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" alt="matsest's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsest&hide=javascript,html,css&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" alt="matsest's most used languages" src="./profile/top-langs.svg" />
 </a>
