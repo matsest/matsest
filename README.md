@@ -8,7 +8,7 @@ Hello world! 👋
 
 💡 Besides work tasks I enjoy learning other cloud native and open source tech, solving programming challenges (preferably with Go/Python) and contributing to open source projects when I can. When I'm not at the computer I enjoy going to [concerts](https://github.com/matsest/lastfm-artists-seen-live/blob/main/artists.md) and [listen to music](https://www.last.fm/user/matsest), organizing [music quizzes](https://quiz.mxe.no), and enjoying life – all while looking out for new things to learn and interesting people to meet.
 
-👉‍ Learn more and find me online at [my personal website](https://mxe.no).
+👉‍ Learn more and find me online at [my personal website](https://www.mxe.no).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" alt="matsest's GitHub stats" src="./profile/stats.svg" />
